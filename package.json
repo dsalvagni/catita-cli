@@ -1,0 +1,26 @@
+{
+  "name": "catita-cli",
+  "version": "0.0.1",
+  "description": "CLI for Catita Work Logger",
+  "bin": {
+    "catita": "bin/catita.js"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsalvagni/catita-cli.git"
+  },
+  "keywords": [
+    "work logger",
+    "time tracking"
+  ],
+  "author": "Daniel Salvagni <danielsalvagni@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsalvagni/catita-cli/issues"
+  },
+  "homepage": "https://github.com/dsalvagni/catita-cli"
+}
